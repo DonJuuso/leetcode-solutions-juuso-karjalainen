@@ -1,7 +1,7 @@
-<h1 align="center">LeetCode Solutions – C# Challenge</h1>
+<h1 align="center">🏆 LeetCode Solutions – C# Challenge 🏆</h1>
 
 <p align="center">
-  <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png" width="800" alt="LeetCode Logo"/>
+  <img src="https://assets.leetcode.com/static_assets/public/images/LeetCode_Sharing.png" width="700" alt="LeetCode Logo"/>
 </p>
 
 <p align="center">
@@ -28,19 +28,6 @@ All solutions are written exclusively in **C#** as part of a focused effort to d
 
 ---
 
-## Topics Covered
-
-- Arrays and Strings  
-- Hash Maps and Sets  
-- Recursion and Backtracking  
-- Dynamic Programming  
-- Trees and Graphs  
-- Bitwise Operations  
-- Sliding Window and Two Pointers  
-- Object-Oriented Problem Design  
-
----
-
 ## Tooling and Workflow
 
 - `glsync` for automated LeetCode-to-GitHub synchronization  
@@ -53,6 +40,8 @@ All solutions are written exclusively in **C#** as part of a focused effort to d
 
 This repository is intended for educational and personal portfolio use.  
 Problem descriptions are omitted or paraphrased to comply with LeetCode’s content policy.
+
+---
 
 <p align="center">
   <sub><strong>DonJuuso 2025</strong></sub>
